@@ -32,7 +32,7 @@
 + 공지사항으로 이동
 
 ### 강의소개 페이지
-![classInfo](https://user-images.githubusercontent.com/59616321/109963087-5781ee80-7d2f-11eb-8e64-0c63bf5ec68e.png)
+![classInfo](https://user-images.githubusercontent.com/59616321/110128421-19a5c880-7e0a-11eb-9bb5-d3d7435c31d9.png)
 + 강의 수강 신청
 + 강의 내 공지사항(커뮤니티) 작성(강의를 개설한 회원만 가능)
 + 댓글&대댓글
@@ -50,7 +50,7 @@
 + 최신순/인기순/조회수순 정렬
 
 ### 공지사항 페이지
-![classInfo](https://user-images.githubusercontent.com/59616321/110128421-19a5c880-7e0a-11eb-9bb5-d3d7435c31d9.png)
+![noticeList](https://user-images.githubusercontent.com/59616321/109963043-4a64ff80-7d2f-11eb-9d9c-8001abc20e0e.png)
 + 공지사항 목록/작성
 + 공지사항 수정/삭제
 
