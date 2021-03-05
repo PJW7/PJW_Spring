@@ -25,7 +25,7 @@
 # 프로젝트 페이지 별 기능 설명
 
 ### 메인페이지
-![main](https://user-images.githubusercontent.com/59616321/109962501-9cf1ec00-7d2e-11eb-9c00-a99a4a417cac.png)
+![main](https://user-images.githubusercontent.com/59616321/110128410-17436e80-7e0a-11eb-83db-df0f96b20241.png)
 + 강의를 인기순/오픈예정/최근 개설/오늘 본 목록으로 표시
 + 로그인/회원가입하기
 + 강의 카테고리 별로 이동
@@ -39,18 +39,18 @@
 + 좋아요&싫어요
 
 ### 마이 페이지
-![mypage](https://user-images.githubusercontent.com/59616321/109962508-9ebbaf80-7d2e-11eb-9e26-845316216afa.png)
+![mypage](https://user-images.githubusercontent.com/59616321/110128415-18749b80-7e0a-11eb-8a85-efe2c0bbc730.png)
 + 개설(강사 회원만)/수강 중/최근 본/좋아요 누른 강의 목록 표시
 + 회원정보 수정/탈퇴
 + 강의등록/관리(강사회원만)
 
 ### 검색/카테고리 페이지
-![cate](https://user-images.githubusercontent.com/59616321/109963030-4802a580-7d2f-11eb-933c-df8a72079f34.png)
+![cate](https://user-images.githubusercontent.com/59616321/110128420-190d3200-7e0a-11eb-913a-16ce839f2f40.png)
 + 카테고리 분류 별 필터
 + 최신순/인기순/조회수순 정렬
 
 ### 공지사항 페이지
-![noticeList](https://user-images.githubusercontent.com/59616321/109963043-4a64ff80-7d2f-11eb-9d9c-8001abc20e0e.png)
+![classInfo](https://user-images.githubusercontent.com/59616321/110128421-19a5c880-7e0a-11eb-9bb5-d3d7435c31d9.png)
 + 공지사항 목록/작성
 + 공지사항 수정/삭제
 
