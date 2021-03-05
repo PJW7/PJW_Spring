@@ -59,6 +59,7 @@
 # 구현 기능 설명
 ### 댓글 & 대댓글
 ![reply](https://user-images.githubusercontent.com/59616321/109964620-3f12d380-7d31-11eb-869c-cd04288839ba.png)
+
 1. 댓글 목록을 불러올 때 버튼 태그의 onclick에 번호키를 매개로 함수를 호출하도록 설정.
 2. ajax를 이용하여 비동기 방식으로 댓글&대댓글의 작성/수정/삭제 기능 구현.
 3. 대댓글 작성 시 원댓글의 키번호를 가져와 그룹번호로 설정하여 묶어줌.
@@ -77,7 +78,7 @@
 ![noticeWrite](https://user-images.githubusercontent.com/59616321/109964638-45a14b00-7d31-11eb-8f1b-d3a63c06ee60.png)
 ![noticeCont](https://user-images.githubusercontent.com/59616321/109964644-476b0e80-7d31-11eb-9101-ac14ab6341d0.png)
 1. 관리자로 공지사항 작성/수정/삭제가 가능하도록 구현.
-2. 공ㅈ사항 게시글 별로 첨부파일 업로드&다운로드 구현.
+2. 공지사항 게시글 별로 첨부파일 업로드&다운로드 구현.
 
 ------
 
